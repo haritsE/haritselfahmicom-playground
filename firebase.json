@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "haritselfahmi-playground",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
+
